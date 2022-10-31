@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "comp229-f2020-midterm-sheina301196528",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -28,7 +28,7 @@
     "node": "^10.15.0",
     "npm": "^6.0.0"
   },
-  "description": "## The MidTerm Project - the Favourite Book List App",
+  "description": "## MidTerm Project - Favourite Book List App",
   "main": "server.js",
   "devDependencies": {
     "@types/body-parser": "^1.19.0",
@@ -52,7 +52,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Solaleh Taheri",
+  "author": "Sheina Haboc",
   "license": "ISC",
   "bugs": {
     "url": ""
